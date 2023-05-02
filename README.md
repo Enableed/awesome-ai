@@ -55,7 +55,7 @@ So let's dive in and discover the limitless potential of AI together. With these
 
 * * *
 
-### [](#animation-amp-3d-modeling)[](#animation)Animation & 3D Modeling
+### [](#animation)Animation & 3D Modeling
 
 *   [lumalabs](https://captures.lumalabs.ai/imagine) - A tool that allows users to generate 3D models from 2D images  
      
