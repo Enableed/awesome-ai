@@ -1,5 +1,5 @@
 
-![Cover image for 400 Free AI Tools - Unleashing the Power of AI](https://media.licdn.com/dms/image/D4E12AQGEfUhAxXqbHQ/article-inline_image-shrink_1500_2232/0/1679726346790?e=1687996800&v=beta&t=bjIH8loU18Alep5cghOpyUkwLfLPnbxiovlUOBa8nnk)
+![Cover image for 400 Free AI Tools - Unleashing the Power of AI](https://github.com/Enableed/awesome-ai/blob/main/awesome%20ai.png?raw=true)
 
 
 
