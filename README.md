@@ -1,5 +1,5 @@
 
-![Cover image for 400 Free AI Tools - Unleashing the Power of AI](https://res.cloudinary.com/practicaldev/image/fetch/s--IMK1eJ-v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vf944i0emm9mgflc5whk.jpg)
+![Cover image for 400 Free AI Tools - Unleashing the Power of AI](https://media.licdn.com/dms/image/D4E12AQGEfUhAxXqbHQ/article-inline_image-shrink_1500_2232/0/1679726346790?e=1687996800&v=beta&t=bjIH8loU18Alep5cghOpyUkwLfLPnbxiovlUOBa8nnk)
 
 
 
